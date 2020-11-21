@@ -1,0 +1,4 @@
+{"_id":{"$oid":"5e6da452b5ba7251f84a0240"},"created_date":{"$date":"2020-03-14T10:44:40.303Z"},"sub_id":"G05","relay_1":{"RF_signal":"Perfect","value":"1","battery":"100"}}
+{"_id":{"$oid":"5e704604b5ba7251f84a0b0d"},"created_date":{"$date":"2020-03-14T10:44:40.303Z"},"sub_id":"G01","relay_1":{"RF_signal":"Perfect","value":"0","battery":"100"},"relay_2":{"RF_signal":"Perfect","value":"0","battery":"100"},"date_sync":{"$date":"2020-03-22T10:42:40Z"}}
+{"_id":{"$oid":"5e704d7cb5ba7251f84a0b20"},"created_date":{"$date":"2020-03-14T10:44:40.303Z"},"sub_id":"G02","relay_1":{"RF_signal":"Perfect","value":"1","battery":"100"},"relay_2":{"RF_signal":"Perfect","value":"1","battery":"100"}}
+{"_id":{"$oid":"5e705852b5ba7251f84a0da0"},"created_date":{"$date":"2020-03-14T10:44:40.303Z"},"sub_id":"G00","relay_1":{"RF_signal":"0","value":"None","battery":"100"},"relay_2":{"RF_signal":"0","value":"None","battery":"100"},"date_sync":{"$date":"2020-11-01T11:38:55Z"}}
